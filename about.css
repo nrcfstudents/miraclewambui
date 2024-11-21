@@ -1,0 +1,37 @@
+body{
+	font-family: cursive;
+	margin: 50px;
+	padding: 50px;
+}
+.row{
+	display: flex;
+	justify-content: space-between;
+	gap: 25px;
+	
+
+} 
+.facts{ 
+	color: lightcoral;
+	font-size: 50px;
+ }
+ .about-section{
+ 	padding: 50px;
+ 	text-align: center;
+ 	background-color: black;
+ 	color: white;
+ }
+ .container{
+ 	padding: 0 16px;
+ }
+ .container,.column{
+ 	border: 2px solid;
+
+ }
+ .column{
+ 	padding: 20px;
+ 	width: 100%;
+ }
+ image{
+ 	width: 50px;
+ 	height: auto;
+ }
